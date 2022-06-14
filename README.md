@@ -1,2 +1,2 @@
-# Pomodoro-Novo
+# Pomodoro
 Hello, thanks for downloading
