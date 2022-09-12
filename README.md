@@ -1,2 +1,2 @@
 # Pomodoro
-Hello, thanks for downloading
+An C# Application to realize Pomodoro technique.
